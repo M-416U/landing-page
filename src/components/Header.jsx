@@ -16,7 +16,7 @@ export default function Header() {
         animate={{ opacity: 1 }}
         transition={{ delay: 1, duration: 0.75 }}
       >
-        <img src="../public/images/icon.png" alt="icon" className="w-10" />
+        <img src="./icon.png" alt="icon" className="w-10" />
         <h1
           className="font-bold text-3xl xlg:text-5xl"
           style={{ fontFamily: "'Rubik'" }}
